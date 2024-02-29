@@ -3,6 +3,7 @@ Implementing vision transformer for image classification on the cifar100 dataset
 
 ### Accuracy
 Training-77.60%
+
 Test-54.23%
 
 ![image](https://github.com/DSam327/Vision_Transformer/assets/113661235/f9790a7c-e4b1-4a8e-9241-84d7aa9b90b6)
